@@ -6,8 +6,8 @@
 // @match          http://www.nutaku.net/games/kingdoms-of-lust/play/*
 // @match          https://www.nutaku.net/games/kingdoms-of-lust/play/*
 // @version        0.0
-// @updateURL      https://github.com/cooljingle/VELIKII-DIVAN/king_auto/auto_boss.js
-// @downloadURL    https://github.com/cooljingle/VELIKII-DIVAN/king_auto/auto_boss.js
+// @updateURL      https://github.com/VELIKII-DIVAN/king_auto/raw/master/auto_boss.js
+// @downloadURL    https://github.com/VELIKII-DIVAN/king_auto/raw/master/auto_boss.js
 // @grant          none
 // ==/UserScript==
 
